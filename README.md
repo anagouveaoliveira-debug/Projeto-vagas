@@ -22,7 +22,7 @@ e **experiência do usuário**, indo além de um CRUD simples.
 - ✅ **Editar** informações de vagas existentes
 - ✅ **Inativar** vagas com motivo obrigatório antes de arquivar
 - ✅ **Arquivar** vagas com travas de negócio (só arquiva se inativa e com motivo)
-- ✅ **Excluir** vagas com tela de confirmação antes da exclusão
+- ✅ **Excluir** vagas com tela de confirmação — rota protegida, não exposta na interface
 - ✅ **Filtrar** vagas por título do cargo
 - ✅ **Controle de status** — Ativo / Inativo / Arquivado
 - ✅ **Rascunho em sessão** — preserva dados digitados ao redirecionar entre telas
