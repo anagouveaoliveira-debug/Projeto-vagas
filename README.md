@@ -1,6 +1,4 @@
-Aqui está o README completo e atualizado para copiar:
-
-markdown# 🗂️ Dash Vagas — Sistema Administrativo de Gerenciamento de Vagas
+ 🗂️ Dash Vagas — Sistema Administrativo de Gerenciamento de Vagas
 
 Painel administrativo completo desenvolvido em **PHP** com banco de dados **PostgreSQL**,
 aplicando conceitos de **Programação Orientada a Objetos (POO)**, arquitetura em camadas
