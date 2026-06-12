@@ -98,7 +98,7 @@ evitando perdas acidentais de dados
 
 ## 🎓 Formação e Contexto
 
-Projeto desenvolvido durante o **Curso PHP Developer**, aplicando na prática:
+Projeto desenvolvido durante estudos, aplicando na prática:
 - Programação Orientada a Objetos (POO)
 - Integração com banco de dados PostgreSQL via PDO
 - Versionamento com Git e GitHub
